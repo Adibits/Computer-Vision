@@ -1,8 +1,0 @@
-Scanning dependencies of target derivative
-[100%] Building CXX object CMakeFiles/derivative.dir/derivative.cpp.o
-/home/adity/Desktop/opencv/Projects/new/1_derivative/derivative.cpp: In function ‘int main(int, char**)’:
-/home/adity/Desktop/opencv/Projects/new/1_derivative/derivative.cpp:58:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
-   char* window_name = "filter2D Demo";
-                       ^
-Linking CXX executable derivative
-[100%] Built target derivative

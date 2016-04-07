@@ -1,1 +1,0 @@
-/home/adity/Desktop/opencv/Projects/new/5_Sobel/CMakeFiles/sobel.dir
