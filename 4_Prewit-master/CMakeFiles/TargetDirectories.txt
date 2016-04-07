@@ -1,0 +1,1 @@
+/home/adity/Desktop/opencv/Projects/new/4_Prewit/CMakeFiles/prewit.dir
