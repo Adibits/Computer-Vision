@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adity/Desktop/projects/misc/test/code.cpp
+iostream
+-
+opencv2/core/version.hpp
+/home/adity/Desktop/projects/misc/test/opencv2/core/version.hpp
+
+/usr/local/include/opencv2/core/version.hpp
+

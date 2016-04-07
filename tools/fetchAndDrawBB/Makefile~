@@ -1,0 +1,10 @@
+ CPP = g++
+
+# OpenCV 2.4.9
+CPPFLAGS = -L/path/to/opencv2.4.9/lib \
+       -I/path/to/opencv2.4.9/include
+
+all: test
+
+test: code.cpp
+    $(CPP) $(CPPFLAGS) $^ -o $@

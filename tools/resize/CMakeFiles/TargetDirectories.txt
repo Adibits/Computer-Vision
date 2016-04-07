@@ -1,0 +1,1 @@
+/home/adity/Desktop/projects/misc/resize/CMakeFiles/resize.dir
