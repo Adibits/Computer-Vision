@@ -1,0 +1,1 @@
+/home/adity/Desktop/opencv/Projects/new/lucasKanade/CMakeFiles/lkdemo.dir

@@ -1,0 +1,1 @@
+/home/adity/Desktop/opencv/Projects/new/CamShift/CMakeFiles/camshiftdemo.dir
